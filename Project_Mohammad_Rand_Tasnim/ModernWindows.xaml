@@ -1,0 +1,31 @@
+﻿<ResourceDictionary
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<ControlTemplate x:Key="CloseButton" TargetType="{x:Type Button}">
+		<Image Margin="0,0,5,4.333" Stretch="Fill">
+			<Image.Source>
+				<BitmapImage CacheOption="OnLoad" UriSource="C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\close-02.png"/>
+			</Image.Source>
+		</Image>
+		<ControlTemplate.Triggers>
+			<Trigger Property="IsDefault" Value="False"/>
+			<Trigger Property="IsKeyboardFocused" Value="True"/>
+			<Trigger Property="ToggleButton.IsChecked" Value="True"/>
+			<Trigger Property="IsEnabled" Value="False">
+				<Setter Property="Foreground" Value="#FFADADAD"/>
+			</Trigger>
+		</ControlTemplate.Triggers>
+	</ControlTemplate>
+	<ControlTemplate x:Key="nextBtn" TargetType="{x:Type Button}">
+		<Image HorizontalAlignment="Left" Height="43.71" Margin="-1.171,-2.009,-2.895,0" Style="{DynamicResource ImageStyle1}" VerticalAlignment="Top" Width="50.066"/>
+		<ControlTemplate.Triggers>
+			<Trigger Property="IsDefault" Value="False"/>
+			<Trigger Property="IsKeyboardFocused" Value="True"/>
+			<Trigger Property="ToggleButton.IsChecked" Value="True"/>
+			<Trigger Property="IsEnabled" Value="False">
+				<Setter Property="Foreground" Value="#FFADADAD"/>
+			</Trigger>
+		</ControlTemplate.Triggers>
+	</ControlTemplate>
+	<!-- Resource dictionary entries should be defined here. -->
+</ResourceDictionary>

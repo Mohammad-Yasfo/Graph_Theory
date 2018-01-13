@@ -1,0 +1,215 @@
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.exe
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.pdb
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.baml
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\App.baml
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.g.cs
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\App.g.cs
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1_MarkupCompile.cache
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.g.resources
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.Properties.Resources.resources
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csproj.GenerateResource.Cache
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.exe
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.pdb
+C:\Users\SAMER\Documents\Visual Studio 2013\Projects\PD_Sample1\PD_Sample1\obj\Debug\ModernWindows.baml
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.exe
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.pdb
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.exe
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.pdb
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.xml
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.xml
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csprojResolveAssemblyReference.cache
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.baml
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\ModernWindows.baml
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\App.baml
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.g.cs
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\App.g.cs
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1_MarkupCompile.cache
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.g.resources
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.Properties.Resources.resources
+H:\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csproj.GenerateResource.Cache
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.exe
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.pdb
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.xml
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csprojResolveAssemblyReference.cache
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.baml
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\ModernWindows.baml
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\App.baml
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.g.cs
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\App.g.cs
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1_MarkupCompile.cache
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.g.resources
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.Properties.Resources.resources
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csproj.GenerateResource.Cache
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.exe
+D:\Special\simo\4\projects\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.pdb
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.exe
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.pdb
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csprojResolveAssemblyReference.cache
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.baml
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\ModernWindows.baml
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\App.baml
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.g.cs
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\App.g.cs
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1_MarkupCompile.cache
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.g.resources
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.Properties.Resources.resources
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csproj.GenerateResource.Cache
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.exe
+C:\Users\محمد اليسفو\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.pdb
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csprojResolveAssemblyReference.cache
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.baml
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\ModernWindows.baml
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\App.baml
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.g.cs
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\App.g.cs
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1_MarkupCompile.cache
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.g.resources
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.Properties.Resources.resources
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csproj.GenerateResource.Cache
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.exe
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.exe
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.pdb
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.xml
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\3th Year\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.pdb
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.exe
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\PD_Sample1.pdb
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.baml
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\ModernWindows.baml
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\App.baml
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\MainWindow.g.cs
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\App.g.cs
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1_MarkupCompile.cache
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.g.resources
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.Properties.Resources.resources
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.csproj.GenerateResource.Cache
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.exe
+C:\Users\Mohammad Yasfo\Desktop\PD_Sample1\PD_Sample1\obj\Debug\PD_Sample1.pdb
